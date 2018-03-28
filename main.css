@@ -1,0 +1,29 @@
+.caja1,.caja2,.caja3{
+    height: 500px;
+    width:100%;
+}
+.caja1{
+    background-color: red;
+}
+.caja2{
+    background-color:blue;
+}
+.caja3{
+    background-color:green;
+}
+.menu{
+    width:100%;
+    text-align:center;
+    
+}
+.mItem{
+    text-decoration: none;
+    color: grey;
+    padding: 20px;
+    background-color: black;
+    margin:4px;
+    box-sizing: border-box;
+}
+.mItem:hover{
+    background-color:gainsboro;
+}
